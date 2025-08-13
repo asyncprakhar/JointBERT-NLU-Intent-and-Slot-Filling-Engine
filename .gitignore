@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+
+# Virtual environments
+nlp/
+venv/
+.venv/
+env/
